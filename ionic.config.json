@@ -1,5 +1,7 @@
 {
   "name": "azure",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
